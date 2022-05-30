@@ -1,0 +1,6 @@
+project: rnshah9/feral
+target: feral
+tests: null
+
+cmds:
+  - cmd: /repo/build/bin/feral @@
