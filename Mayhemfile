@@ -2,4 +2,4 @@ project: feral
 target: feral
 
 cmds:
-  - cmd: /repo/build/bin/feral @@
+  - cmd: /feral @@
