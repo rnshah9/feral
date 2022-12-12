@@ -1,0 +1,6 @@
+project: feral
+target: split
+
+cmds:
+  - cmd: /fuzz_split
+    libfuzzer: true
